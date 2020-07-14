@@ -1,0 +1,4 @@
+Where is the WordPress content stored?
+
+All WordPress content is stored in the MySQL database on Server.
+
