@@ -9,3 +9,10 @@ In brief: actions do stuff; filters change stuff.
 Actions : Actions allow you to add extra functionality at a specific point.
 
 Filters : Filters allow you to modify data.
+
+Important Links :
+
+https://presscustomizr.com/function/add_action/
+http://www.presscustomizr.com/function/add_filter/
+
+
