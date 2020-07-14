@@ -1,0 +1,3 @@
+WordPress.com vs WordPress.org – What is the Difference?
+
+The difference is the host. With WordPress.org – you host your own website; with WordPress.com – they host it for you.
