@@ -1,0 +1,3 @@
+What are WordPress Plugins?
+
+WordPress offers a huge variety of plugins for maximum flexibility when it comes to creating a website.
