@@ -1,0 +1,10 @@
+How to create a Child Theme Manually ?
+
+1. Create a folder and name it like <Theme Name>-child Ex : twentynineteen-child
+2. Create two files titled style.css and index.php
+3. Open the style.css and write below information
+
+/*
+Theme Name: Twentynineteen Child
+Template: Twentynineteen
+*/
