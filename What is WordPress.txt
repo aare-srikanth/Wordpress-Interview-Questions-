@@ -1,0 +1,3 @@
+What is WordPress ?
+
+WordPress is an online open source website creation tool also known as CMS – content management system. It is based on PHP and MySQL.
