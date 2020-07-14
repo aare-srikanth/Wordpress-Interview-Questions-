@@ -1,0 +1,5 @@
+What are Hooks in WordPress?
+
+Hooks are functions that can be applied to a Filter or an Action in WP and they allow you to, with modifying areas in a theme or plugin without modifying the original file.
+
+Depending on whether you apply them to a Filter or to an Action, they are called action hooks and filter hooks.
