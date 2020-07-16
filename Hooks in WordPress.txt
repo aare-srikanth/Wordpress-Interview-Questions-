@@ -15,4 +15,29 @@ Important Links :
 https://presscustomizr.com/function/add_action/
 http://www.presscustomizr.com/function/add_filter/
 
+Action Example :
+
+// Importing parent styles in child theme
+
+add_action( 'wp_enqueue_scripts', 'enqueue_child_theme_styles', PHP_INT_MAX);
+
+function enqueue_child_theme_styles() {
+  wp_enqueue_style( 'parent-style', get_template_directory_uri().'/style.css' );
+}
+
+Filter Example :
+
+// Add Content before Post in WordPress without using plugin
+
+function auto_insert_after_post($content){
+
+	$your_custom_text = 'The block of text you want to add goes here';
+	if (is_single()) {
+	$content = $your_custom_text.$content;
+	}
+	return $content;
+	}
+	add_filter( 'the_content', 'auto_insert_after_post' );
+ 
+
 
