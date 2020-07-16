@@ -1,0 +1,4 @@
+How Does Debugging in WordPress Work?
+
+WP_DEBUG is a PHP constant that can be used to enable the debug mode throughout WordPress at any time.
+By default, it is assumed to be false so you need to set it to true in the wp-config.php file.
